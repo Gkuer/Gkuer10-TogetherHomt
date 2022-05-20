@@ -214,7 +214,7 @@
 
 <br>
 
-## Feed
+## 🐥 Feed 관련 코드 상세 설명
 
 >Spring Boot, JPA, Lombok
 
